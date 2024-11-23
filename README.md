@@ -15,6 +15,8 @@ I’m on a thrilling journey into **Artificial Intelligence**, diving deep into 
 
 - **Responsive Admin Dashboard** 🖥️: Built a sleek, fully responsive admin interface using HTML, CSS, and JavaScript. Designed with a focus on accessibility and user experience, it’s an intuitive tool for data management.
 
+- **Fake News Detection** 📰🔍❌:A machine learning-based system designed to detect and classify fake news articles. By leveraging natural language processing (NLP) techniques and advanced machine learning models, the system provides a reliable method for identifying misinformation.
+
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/anas-limem-2b01702b1/)
   
