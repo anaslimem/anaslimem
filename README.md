@@ -17,7 +17,7 @@ I’m on a thrilling journey into **Artificial Intelligence**, diving deep into 
 
 - **Fake News Detection** 📰🔍❌:A machine learning-based system designed to detect and classify fake news articles. By leveraging natural language processing (NLP) techniques and advanced machine learning models, the system provides a reliable method for identifying misinformation.
 
-- **Inventory Management 📦: A comprehensive system for managing and tracking inventory in a pharmacy. The project utilizes Java to create a user-friendly interface for adding, searching, and removing medicinal products. It supports categorization and allows efficient management of stocks, ensuring a smooth and organized workflow in inventory control.
+- **Inventory Management** 📦: A comprehensive system for managing and tracking inventory in a pharmacy. The project utilizes Java to create a user-friendly interface for adding, searching, and removing medicinal products. It supports categorization and allows efficient management of stocks, ensuring a smooth and organized workflow in inventory control.
   
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/anas-limem-2b01702b1/)
