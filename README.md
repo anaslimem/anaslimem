@@ -4,7 +4,7 @@
 I’m on a thrilling journey into **Artificial Intelligence**, diving deep into **Machine Learning** and **Deep Learning** to build solutions that are both innovative and impactful.
 
 ### 🛠️ Skills
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, Flask
 - **Programming Languages:** Python, Java
 - **ML Frameworks:** TensorFlow, PyTorch
 
