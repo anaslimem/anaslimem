@@ -10,7 +10,7 @@ I’m on a thrilling journey into **Artificial Intelligence**, diving deep into 
 
 ### 🔭 Featured Projects
 
--**Car Rental Website** 🚗💻: A web platform built with **Flask** and **MongoDB** that allows users to browse and book cars, while admins can manage the car inventory.
+- **Car Rental Website** 🚗💻: A web platform built with **Flask** and **MongoDB** that allows users to browse and book cars, while admins can manage the car inventory.
 
 - **Deep Monkey** 🐒: A machine learning tool that identifies the species of monkeys from uploaded images. This project applies ML and DL models to provide accurate species classifications.
 
