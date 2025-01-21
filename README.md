@@ -33,5 +33,3 @@ I’m on a thrilling journey into **Artificial Intelligence**, diving deep into 
 #### GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical)
 
-#### Contributions in the Last Year  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anaslimem&theme=radical)
