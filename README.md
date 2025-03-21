@@ -6,7 +6,8 @@ I’m on a thrilling journey into **Artificial Intelligence**, diving deep into 
 ### 🛠️ Skills
 - **Web Development:** HTML, CSS, JavaScript, Flask
 - **Programming Languages:** Python, Java
-- **ML Frameworks:** TensorFlow, PyTorch
+- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib
 - **Database & Storage:** Redis Cache, ChromaDB, FAISS, MongoDB
 
 
