@@ -8,16 +8,16 @@ I’m on a thrilling journey into **Artificial Intelligence**, diving deep into 
 - **Programming Languages:** Python, Java
 - **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib
-- **Database & Storage:** Redis Cache, ChromaDB, FAISS, MongoDB
-- **Containerization & Deployment:** Docker
+- **Database & Storage:** Redis Cache, ChromaDB, FAISS, MongoDB, PostgreSQL
+- **Containerization & Deployment:** Docker, Kubernetes
  
  
 
 ### 🔭 Featured Projects
 
-- **Fake News Detection** 📰🔍❌: A machine learning-based system designed to detect and classify fake news articles. By leveraging natural language processing (NLP) techniques and advanced machine learning models, the system provides a reliable method for identifying misinformation.
+- **AIAssistant - RAG-Powered Intelligent Search System** : Engineered an AI assistant with Retrieval-Augmented Generation (RAG), integrating ChromaDB, LangChain, and Redis for fast, accurate responses (2s vs 24s for standard LLMs; cached queries <1s). Created a Streamlit UI for real-time Q&A.
   
-- **Smart Search Engine** 🗞️🔍: A full-stack news article search application built with **FastAPI**, **Streamlit**, and **Elasticsearch**, all contained within a **Docker container**. This project helped me learn how to integrate Elasticsearch for efficient article indexing and searching while using Docker for easy deployment. It provides a smooth interface for searching and indexing articles with scalable performance.
+- **Smart Article Search v2.0 – AI-Powered News Search Engine** : Upgraded an AI-powered article search engine by integrating a Kubernetes-based deployment architecture using Minikube. Implemented FastAPI (backend), Streamlit (frontend), and Elasticsearch for scalable, full-text search across news articles. Configured Kubernetes Deployments, Services, ConfigMaps, and Secrets for modular, secure, and production-like orchestration.
   
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/anas-limem-2b01702b1/)
