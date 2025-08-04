@@ -32,6 +32,4 @@ I’m on a thrilling journey into **Artificial Intelligence**, diving deep into 
 #### GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical)
 
-#### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=anaslimem&label=Profile%20Views&color=0e75b6&style=flat)
 
