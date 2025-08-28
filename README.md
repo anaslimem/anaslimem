@@ -7,7 +7,7 @@
 
 ### ​ [AIAssistant – RAG-Powered Intelligent Search System](https://github.com/anaslimem/AIAssistant)  
 Engineered an AI assistant with **Retrieval-Augmented Generation (RAG)** using **ChromaDB, LangChain, and Redis**.  
-- ⏱️ **Response Time**: from 24s → 2s (cached queries < 1s)  
+- **Response Time**: from 24s → 2s (cached queries < 1s)  
 - Built a **Streamlit UI** for real-time Q&A  
 
 ---
