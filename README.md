@@ -1,8 +1,3 @@
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anaslimem/count.svg" alt="Visitor Count" />
-</div>
-
 # ​ Hi, I’m **Anas Limem**  
 > *AI Engineer-in-the-Making | ML & DL Enthusiast | Turning Math into Machines*  
 
