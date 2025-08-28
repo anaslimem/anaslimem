@@ -18,6 +18,10 @@ I’m on a thrilling journey into **Artificial Intelligence**, diving deep into 
 - **AIAssistant - RAG-Powered Intelligent Search System** : Engineered an AI assistant with Retrieval-Augmented Generation (RAG), integrating ChromaDB, LangChain, and Redis for fast, accurate responses (2s vs 24s for standard LLMs; cached queries <1s). Created a Streamlit UI for real-time Q&A.
   
 - **Smart Article Search v2.0 – AI-Powered News Search Engine** : Upgraded an AI-powered article search engine by integrating a Kubernetes-based deployment architecture using Minikube. Implemented FastAPI (backend), Streamlit (frontend), and Elasticsearch for scalable, full-text search across news articles. Configured Kubernetes Deployments, Services, ConfigMaps, and Secrets for modular, secure, and production-like orchestration.
+
+- **CNN-from-Scratch - Convolutional Neural Network (CNN) trained on MNIST, built completely from scratch in NumPy** : Built a Convolutional Neural Network (CNN) entirely from scratch in NumPy, implementing convolution, pooling, dropout, batch normalization, and custom training loops. Achieved >98% accuracy on MNIST while manually coding forward/backward passes, parameter updates, and optimizers (SGD, AdamW). Generated visualizations of loss/accuracy to analyze learning dynamics.
+
+- **Optimizers-from-Scratch - Gradient-Based Learning Engine** : Developed a 2-layer MLP on MNIST/Fashion-MNIST without autograd, manually implementing backpropagation and gradient checks with finite differences. Integrated multiple optimizers (SGD, Momentum, RMSProp, Adam, AdamW) and learning rate schedules (step decay, cosine, warmup). Reached ≥97% test accuracy while demonstrating full-stack understanding of optimization theory and matrix calculus.
   
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/anas-limem-2b01702b1/)
