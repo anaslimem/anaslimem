@@ -69,12 +69,6 @@ Custom-built Convolutional Neural Network in **NumPy**:
 
 ---
 
-##  Latest on My Medium
-<!-- Embed via GitHub Readme Medium widget -->
-![Latest Article](https://github-readme-medium.vercel.app/feed?username=limemanas0)
-
----
-
 ##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-limem-2b01702b1/)  
