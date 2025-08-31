@@ -5,6 +5,16 @@
 
 ##  Featured Projects
 
+### ​ [VectorMind AI – Personal Document Q&A Engine](https://github.com/anaslimem/vectormind-ai)  
+Developed a full-stack **AI-powered application** to chat with documents using **RAG (Retrieval-Augmented Generation)**.  
+- Built with **Streamlit (frontend)** and **FastAPI (backend)** for an interactive, responsive experience  
+- Implemented **Redis queue + worker** for asynchronous document processing  
+- Integrated **ChromaDB** as a persistent vector database for knowledge storage  
+- Used **sentence-transformers/all-MiniLM-L6-v2** for embeddings and **Ollama** for LLM serving  
+- Containerized with **Docker**, orchestrated with **Kubernetes** for scalable cloud-native deployment  
+
+---
+
 ### ​ [AIAssistant – RAG-Powered Intelligent Search System](https://github.com/anaslimem/AIAssistant)  
 Engineered an AI assistant with **Retrieval-Augmented Generation (RAG)** using **ChromaDB, LangChain, and Redis**.  
 - **Response Time**: from 24s → 2s (cached queries < 1s)  
