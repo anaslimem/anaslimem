@@ -91,6 +91,8 @@ Custom-built Convolutional Neural Network in **NumPy**:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anaslimem&theme=radical)      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical)  
 
+![Visitor Count](https://komarev.com/ghpvc/?username=anaslimem&label=Visitors&color=blue&style=flat)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaslimem&layout=compact&theme=radical)      
 
 
