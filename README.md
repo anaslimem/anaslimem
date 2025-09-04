@@ -93,78 +93,56 @@ flowchart TD
 
 ## 🧰 Tech Toolbox
 
-<details>
-  <summary><b>Languages & Scripting</b></summary>
-
-- Python, Java, SQL, Bash
-</details>
-
-<details>
-  <summary><b>Machine Learning & AI</b></summary>
-
-- PyTorch, TensorFlow, scikit-learn
-- sentence-transformers, LangChain, RAG
-- FAISS, ChromaDB
-</details>
-
-<details>
-  <summary><b>Data & Visualization</b></summary>
-
-- Pandas, NumPy, Matplotlib
-- Elasticsearch (indexing/search)
-</details>
-
-<details>
-  <summary><b>Backend & APIs</b></summary>
-
-- FastAPI, Flask, Streamlit
-</details>
-
-<details>
-  <summary><b>Databases & Messaging</b></summary>
-
-- PostgreSQL, MongoDB, Redis
-</details>
-
-<details>
-  <summary><b>DevOps & Cloud</b></summary>
-
-- Docker, Kubernetes, GitHub Actions
-- Azure Blob Storage
-</details>
-
-<p>
-  
-<!-- Badges row -->
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/sentence--transformers-1E90FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-0C8CE9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/FAISS-005F9E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ChromaDB-FF0080?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+<p align="center">
+  <h3>Languages & Scripting</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
 </p>
+
+<p align="center">
+  <h3>Machine Learning & AI</h3>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sentence--transformers-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-0C8CE9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-005F9E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF0080?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <h3>Data & Visualization</h3>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <h3>Backend & APIs</h3>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <h3>Databases & Messaging</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <h3>DevOps & Cloud</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+</p>
+
 
 ---
 
