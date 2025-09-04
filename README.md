@@ -31,7 +31,7 @@ Repo: https://github.com/anaslimem/VectorMind-AI
 - Built an AI app to chat with your documents using RAG
 - Streamlit (frontend) + FastAPI (backend), Redis queue for async processing
 - ChromaDB for vector storage, sentence-transformers for embeddings, Ollama for LLM
-- Containerized with Docker, orchestrated with Kubernetes
+- Containerized with Docker, orchestrated with Kubernetes, and integrated with CI/CD for automated deployments.
 
 ---
 
