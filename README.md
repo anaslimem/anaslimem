@@ -121,35 +121,37 @@ DevOps & Cloud
 ## 📈 Stats & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anaslimem&theme=radical&no-bg=true&no-frame=true&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anaslimem&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anaslimem&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=anaslimem&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaslimem&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaslimem&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslimem&theme=react-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslimem&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
 
 ## 🤝 Connect
 
-<a href="https://www.linkedin.com/in/anas-limem-2b01702b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://github.com/anaslimem">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-</a>
-<a href="http://medium.com/@limemanas0">
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anas-limem-2b01702b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/anaslimem">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="http://medium.com/@limemanas0">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
