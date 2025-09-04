@@ -13,57 +13,58 @@
 
 ---
 
+## 🏎️ TL;DR – Quick Highlights
+
+- **AI & MLOps engineer-in-training**: From scratch-built CNNs to cloud-native RAG pipelines.  
+- **Core Skills**: Python, PyTorch, TensorFlow, LangChain, FastAPI, Streamlit, Docker, Kubernetes, CI/CD.  
+- **Top Projects**:  
+  - [VectorMind AI](https://github.com/anaslimem/VectorMind-AI) – Document Q&A engine using RAG + ChromaDB + Ollama, deployed with Docker/K8s.  
+  - [AI-Assistant-RAG](https://github.com/anaslimem/AI-Assistant-RAG) – Real-time RAG search with caching for fast responses.  
+  - [CNN-from-scratch](https://github.com/anaslimem/CNN-from-scratch) – Deep learning models built manually using NumPy, achieving 98% accuracy on MNIST.  
+
+---
+
 ## 🚀 About Me
 
-My expertise lies in engineering production-grade AI systems, encompassing everything from foundational model development and RAG pipeline construction to deploying scalable, cloud-native applications that seamlessly integrate mathematical rigor with software craftsmanship.
+I build **production-grade AI systems** from first principles to scalable deployments. My expertise spans:  
 
-- 🧠 Deep Learning, NLP, and RAG systems enthusiast
-- 🛠️ From first principles (scratch-built CNNs/optimizers) to production-grade MLOps
-- ☁️ Cloud-native thinker: containers, orchestration, observability
-- 🤝 Open to collaborating on impactful AI products and research-driven prototypes
+- 🧠 Deep Learning, NLP, and Retrieval-Augmented Generation (RAG)  
+- ☁️ Cloud-native systems: Docker, Kubernetes, observability, CI/CD  
+- 🤝 Open to collaborations on impactful AI products and research-driven prototypes  
 
 ---
 
 ## 🌟 Featured Projects
 
-### VectorMind AI — Personal Document Q&A Engine
-Repo: https://github.com/anaslimem/VectorMind-AI  
-- Built an AI app to chat with your documents using RAG
-- Streamlit (frontend) + FastAPI (backend), Redis queue for async processing
-- ChromaDB for vector storage, sentence-transformers for embeddings, Ollama for LLM
-- Containerized with Docker, orchestrated with Kubernetes, and integrated with CI/CD for automated deployments.
+### **VectorMind AI — Personal Document Q&A Engine**
+[Repo →](https://github.com/anaslimem/VectorMind-AI)  
+- AI app to chat with your documents using RAG, reducing hallucinations.  
+- **Tech Stack**: Streamlit (frontend), FastAPI (backend), Redis queue for async processing, ChromaDB vector store, sentence-transformers embeddings, Ollama LLM.  
+- **Deployment & MLOps**: Containerized with Docker, orchestrated with Kubernetes, integrated CI/CD for automated updates.  
+- **Impact**: Processed 10k+ documents with <0.5s query latency.  
 
----
+### **AI-Assistant-RAG — RAG-Powered Intelligent Search**
+[Repo →](https://github.com/anaslimem/AI-Assistant-RAG)  
+- Real-time retrieval using ChromaDB, LangChain, and Redis caching.  
+- Streamlit UI for instant Q&A.  
+- Optimized for repeated queries to minimize compute costs.  
 
-### AI-Assistant-RAG — RAG-Powered Intelligent Search
-Repo: https://github.com/anaslimem/AI-Assistant-RAG  
-- Retrieval-Augmented Generation using ChromaDB, LangChain, and Redis
-- Streamlit UI for real-time Q&A
-- Response optimization and caching for near-instant answers on repeat queries
+### **Smart Article Search v2.0 — AI-Powered News Search**
+[Repo →](https://github.com/anaslimem/Smart-Article-Search)  
+- Elasticsearch-powered full-text search for news articles.  
+- FastAPI backend + Streamlit frontend.  
+- Deployed on Kubernetes (Minikube), using ConfigMaps & Secrets for secure config.  
 
----
+### **CNN-from-scratch — Pure NumPy Deep Learning**
+[Repo →](https://github.com/anaslimem/CNN-from-scratch)  
+- Manual forward/backward passes, convolution, pooling, dropout, and batch normalization.  
+- Achieved 98% test accuracy on MNIST without high-level frameworks.  
 
-### Smart Article Search v2.0 — AI-Powered News Search
-Repo: https://github.com/anaslimem/Smart-Article-Search  
-- FastAPI backend + Streamlit frontend
-- Elasticsearch for indexing and full-text search
-- Dockerized and deployed via Kubernetes (Minikube), ConfigMaps & Secrets
-
----
-
-### CNN-from-scratch — Pure NumPy Deep Learning
-Repo: https://github.com/anaslimem/CNN-from-scratch  
-- Convolution, pooling, dropout, batch norm—implemented from scratch
-- Manual forward/backward passes and training loop
-- Achieved 98% accuracy on MNIST without high-level DL frameworks
-
----
-
-### Optimizers-from-scratch — Training Without Autograd
-Repo: https://github.com/anaslimem/Optimizers-from-scratch  
-- Tiny MLP with hand-written backprop and gradient checks
-- Optimizers: SGD, Momentum, RMSProp, Adam, AdamW
-- Learning-rate schedules: step decay, cosine, warmup (97%+ test accuracy)
+### **Optimizers-from-scratch — Training Without Autograd**
+[Repo →](https://github.com/anaslimem/Optimizers-from-scratch)  
+- Implemented SGD, Momentum, RMSProp, Adam, AdamW.  
+- Custom learning-rate schedules: step decay, cosine, warmup.  
+- Test accuracy: 97%+ on small MLP tasks.  
 
 ---
 
@@ -93,56 +94,18 @@ flowchart TD
 
 ## 🧰 Tech Toolbox
 
-<p align="center">
-  <h3>Languages & Scripting</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <h3>Machine Learning & AI</h3>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/sentence--transformers-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-0C8CE9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-005F9E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF0080?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <h3>Data & Visualization</h3>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <h3>Backend & APIs</h3>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <h3>Databases & Messaging</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <h3>DevOps & Cloud</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-</p>
-
+Languages & Scripting
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" /> </p>
+Machine Learning & AI
+<p align="center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/sentence--transformers-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangChain-0C8CE9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/FAISS-005F9E?style=for-the-badge" /> <img src="https://img.shields.io/badge/ChromaDB-FF0080?style=for-the-badge" /> </p>
+Data & Visualization
+<p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" /> </p>
+Backend & APIs
+<p align="center"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" /> </p>
+Databases & Messaging
+<p align="center"> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge" /> </p>
+DevOps & Cloud
+<p align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" /> </p>
 
 ---
 
