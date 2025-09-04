@@ -1,100 +1,215 @@
-# ​ Hi, I’m **Anas Limem**  
-> *AI Engineer-in-the-Making | ML & DL Enthusiast | Turning Math into Machines*  
+# 👋 Hi, I’m **Anas Limem**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&lines=AI+Engineer-in-the-Making;Turning+Math+into+Machines;RAG+%7C+MLOps+%7C+Deep+Learning;From+first+principles+to+production" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anaslimem&label=Profile+views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://github.com/anaslimem?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/anaslimem?style=flat-square&color=blue" /></a>
+  <img alt="location" src="https://img.shields.io/badge/Tunis-Tunisia-ff4757?style=flat-square" />
+  <img alt="open to work" src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat-square" />
+</p>
 
 ---
 
-##  Featured Projects
+## 🚀 About Me
 
-### ​ [VectorMind AI – Personal Document Q&A Engine](https://github.com/anaslimem/vectormind-ai)  
-Developed a full-stack **AI-powered application** to chat with documents using **RAG (Retrieval-Augmented Generation)**.  
-- Built with **Streamlit (frontend)** and **FastAPI (backend)** for an interactive, responsive experience  
-- Implemented **Redis queue + worker** for asynchronous document processing  
-- Integrated **ChromaDB** as a persistent vector database for knowledge storage  
-- Used **sentence-transformers/all-MiniLM-L6-v2** for embeddings and **Ollama** for LLM serving  
-- Containerized with **Docker**, orchestrated with **Kubernetes** for scalable cloud-native deployment  
+I engineer intelligence—designing, building, and deploying AI systems end to end. From training models and crafting RAG pipelines to shipping cloud-native applications, my work blends math, software craftsmanship, and scalable infrastructure.
 
----
-
-### ​ [AIAssistant – RAG-Powered Intelligent Search System](https://github.com/anaslimem/AIAssistant)  
-Engineered an AI assistant with **Retrieval-Augmented Generation (RAG)** using **ChromaDB, LangChain, and Redis**.  
-- **Response Time**: from 24s → 2s (cached queries < 1s)  
-- Built a **Streamlit UI** for real-time Q&A  
+- 🧠 Deep Learning, NLP, and RAG systems enthusiast
+- 🛠️ From first principles (scratch-built CNNs/optimizers) to production-grade MLOps
+- ☁️ Cloud-native thinker: containers, orchestration, observability
+- 🤝 Open to collaborating on impactful AI products and research-driven prototypes
 
 ---
 
-### ​ [Smart Article Search v2.0 – AI-Powered News Search Engine](https://github.com/anaslimem/Smart-Article-Search)  
-Scalable news search engine with:  
-- **FastAPI backend**, **Streamlit frontend**  
-- **Elasticsearch** for full-text search  
-- Dockerized & deployed with **Kubernetes (Minikube)**, using Deployments, Services, ConfigMaps & Secrets  
+## 🌟 Featured Projects
+
+### VectorMind AI — Personal Document Q&A Engine
+Repo: https://github.com/anaslimem/VectorMind-AI  
+- Built an AI app to chat with your documents using RAG
+- Streamlit (frontend) + FastAPI (backend), Redis queue for async processing
+- ChromaDB for vector storage, sentence-transformers for embeddings, Ollama for LLM
+- Containerized with Docker, orchestrated with Kubernetes
 
 ---
 
-### ​ [CNN-from-Scratch](https://github.com/anaslimem/CNN-from-Scratch)  
-Custom-built Convolutional Neural Network in **NumPy**:  
-- Included convolution, pooling, dropout, batch normalization  
-- Hit **98% accuracy** on MNIST  
-- Manually coded forward/backward passes & optimizers  
+### AI-Assistant-RAG — RAG-Powered Intelligent Search
+Repo: https://github.com/anaslimem/AI-Assistant-RAG  
+- Retrieval-Augmented Generation using ChromaDB, LangChain, and Redis
+- Streamlit UI for real-time Q&A
+- Response optimization and caching for near-instant answers on repeat queries
 
 ---
 
-### ​ [Optimizers-from-Scratch](https://github.com/anaslimem/Optimizers-from-Scratch)  
-2-layer MLP without autograd:  
-- Gradient checks with finite differences  
-- Optimizers: SGD, Momentum, RMSProp, Adam, AdamW  
-- Learning rate schedules: step decay, cosine, warmup  
-- Achieved **≥97% test accuracy**  
+### Smart Article Search v2.0 — AI-Powered News Search
+Repo: https://github.com/anaslimem/Smart-Article-Search  
+- FastAPI backend + Streamlit frontend
+- Elasticsearch for indexing and full-text search
+- Dockerized and deployed via Kubernetes (Minikube), ConfigMaps & Secrets
 
 ---
 
-##  Technical Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)  
-![FAISS](https://img.shields.io/badge/FAISS-005F9E?style=for-the-badge&logo=facebook&logoColor=white)  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF0080?style=for-the-badge&logo=chromadb&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### CNN-from-scratch — Pure NumPy Deep Learning
+Repo: https://github.com/anaslimem/CNN-from-scratch  
+- Convolution, pooling, dropout, batch norm—implemented from scratch
+- Manual forward/backward passes and training loop
+- Achieved 98% accuracy on MNIST without high-level DL frameworks
 
 ---
 
-##  Currently Exploring
-- Reinforcement Learning  
-- MLOps & Cloud AI  
-- Open to collaborating on AI-driven projects  
+### Optimizers-from-scratch — Training Without Autograd
+Repo: https://github.com/anaslimem/Optimizers-from-scratch  
+- Tiny MLP with hand-written backprop and gradient checks
+- Optimizers: SGD, Momentum, RMSProp, Adam, AdamW
+- Learning-rate schedules: step decay, cosine, warmup (97%+ test accuracy)
 
 ---
 
-##  Connect with Me
+## 🧭 How I Build AI Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-limem-2b01702b1/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaslimem)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://medium.com/@limemanas0)
+```mermaid
+flowchart TD
+  U[User] --> UI[Streamlit UI]
+  UI --> API[FastAPI Backend]
+  subgraph Async & Compute
+    API --> Q[Redis Queue]
+    W1[Worker] -->|Embed| E[sentence-transformers]
+    W1 -->|Index| V[(ChromaDB)]
+    W2[Worker] -->|Query| V
+    W2 -->|Augment| C[Context Builder]
+  end
+  C --> LLM[Ollama-hosted LLM]
+  LLM --> API
+  API --> UI
+```
+
+- Modular design with queues, workers, and vector stores
+- Cloud-native deployments with Docker/Kubernetes
+- Clear observability and caching layers for performance
 
 ---
 
-##  GitHub Stats & Activity
+## 🧰 Tech Toolbox
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anaslimem&theme=radical)      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical)  
+<details>
+  <summary><b>Languages & Scripting</b></summary>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaslimem&layout=compact&theme=radical)      
+- Python, Java, SQL, Bash
+</details>
 
+<details>
+  <summary><b>Machine Learning & AI</b></summary>
 
+- PyTorch, TensorFlow, scikit-learn
+- sentence-transformers, LangChain, RAG
+- FAISS, ChromaDB
+</details>
+
+<details>
+  <summary><b>Data & Visualization</b></summary>
+
+- Pandas, NumPy, Matplotlib
+- Elasticsearch (indexing/search)
+</details>
+
+<details>
+  <summary><b>Backend & APIs</b></summary>
+
+- FastAPI, Flask, Streamlit
+</details>
+
+<details>
+  <summary><b>Databases & Messaging</b></summary>
+
+- PostgreSQL, MongoDB, Redis
+</details>
+
+<details>
+  <summary><b>DevOps & Cloud</b></summary>
+
+- Docker, Kubernetes, GitHub Actions
+- Azure Blob Storage
+</details>
+
+<p>
+  
+<!-- Badges row -->
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/sentence--transformers-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-0C8CE9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/FAISS-005F9E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF0080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
-✨ *Let’s connect, build, and innovate in AI together!*  🚀
+## 📚 Currently Exploring
+
+- Reinforcement Learning (RL)
+- Advanced RAG architectures and evaluation
+- MLOps: experiment tracking, CI/CD for models, data versioning
+- Scalable search: embeddings, hybrid retrieval, vector databases
+
+---
+
+## 📈 Stats & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anaslimem&theme=radical&no-bg=true&no-frame=true&column=6" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anaslimem&theme=radical" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaslimem&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslimem&theme=react-dark" alt="activity graph" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<a href="https://www.linkedin.com/in/anas-limem-2b01702b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://github.com/anaslimem">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</a>
+<a href="http://medium.com/@limemanas0">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" />
+</a>
+
+---
+
+<p align="center"><i>“The best way to learn is to build.”</i> — Let’s build something intelligent together.</p>
