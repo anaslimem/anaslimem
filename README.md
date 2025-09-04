@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I engineer intelligence—designing, building, and deploying AI systems end to end. From training models and crafting RAG pipelines to shipping cloud-native applications, my work blends math, software craftsmanship, and scalable infrastructure.
+My expertise lies in engineering production-grade AI systems, encompassing everything from foundational model development and RAG pipeline construction to deploying scalable, cloud-native applications that seamlessly integrate mathematical rigor with software craftsmanship.
 
 - 🧠 Deep Learning, NLP, and RAG systems enthusiast
 - 🛠️ From first principles (scratch-built CNNs/optimizers) to production-grade MLOps
