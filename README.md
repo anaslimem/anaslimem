@@ -32,59 +32,8 @@ I build **production-grade AI systems** from first principles to scalable deploy
 - ☁️ Cloud-native systems: Docker, Kubernetes, observability, CI/CD  
 - 🤝 Open to collaborations on impactful AI products and research-driven prototypes  
 
----
-
-## 🌟 Featured Projects
-
-### **VectorMind AI — Personal Document Q&A Engine**
-[Repo →](https://github.com/anaslimem/VectorMind-AI)  
-- AI app to chat with your documents using RAG, reducing hallucinations.  
-- **Tech Stack**: Streamlit (frontend), FastAPI (backend), Redis queue for async processing, ChromaDB vector store, sentence-transformers embeddings, Ollama LLM.  
-- **Deployment & MLOps**: Containerized with Docker, orchestrated with Kubernetes, integrated CI/CD for automated updates.  
-- **Impact**: Processed 10k+ documents with <0.5s query latency.  
-
-### **AI-Assistant-RAG — RAG-Powered Intelligent Search**
-[Repo →](https://github.com/anaslimem/AI-Assistant-RAG)  
-- Real-time retrieval using ChromaDB, LangChain, and Redis caching.  
-- Streamlit UI for instant Q&A.  
-- Optimized for repeated queries to minimize compute costs.  
-
-### **Smart Article Search v2.0 — AI-Powered News Search**
-[Repo →](https://github.com/anaslimem/Smart-Article-Search)  
-- Elasticsearch-powered full-text search for news articles.  
-- FastAPI backend + Streamlit frontend.  
-- Deployed on Kubernetes (Minikube), using ConfigMaps & Secrets for secure config.  
-
-### **CNN-from-scratch — Pure NumPy Deep Learning**
-[Repo →](https://github.com/anaslimem/CNN-from-scratch)  
-- Manual forward/backward passes, convolution, pooling, dropout, and batch normalization.  
-- Achieved 98% test accuracy on MNIST without high-level frameworks.  
-
-### **Optimizers-from-scratch — Training Without Autograd**
-[Repo →](https://github.com/anaslimem/Optimizers-from-scratch)  
-- Implemented SGD, Momentum, RMSProp, Adam, AdamW.  
-- Custom learning-rate schedules: step decay, cosine, warmup.  
-- Test accuracy: 97%+ on small MLP tasks.  
-
----
 
 ## 🧭 How I Build AI Systems
-
-```mermaid
-flowchart TD
-  U[User] --> UI[Streamlit UI]
-  UI --> API[FastAPI Backend]
-  subgraph Async & Compute
-    API --> Q[Redis Queue]
-    W1[Worker] -->|Embed| E[sentence-transformers]
-    W1 -->|Index| V[(ChromaDB)]
-    W2[Worker] -->|Query| V
-    W2 -->|Augment| C[Context Builder]
-  end
-  C --> LLM[Ollama-hosted LLM]
-  LLM --> API
-  API --> UI
-```
 
 - Modular design with queues, workers, and vector stores
 - Cloud-native deployments with Docker/Kubernetes
@@ -106,15 +55,6 @@ Databases & Messaging
 <p align="center"> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge" /> </p>
 DevOps & Cloud
 <p align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" /> </p>
-
----
-
-## 📚 Currently Exploring
-
-- Reinforcement Learning (RL)
-- Advanced RAG architectures and evaluation
-- MLOps: experiment tracking, CI/CD for models, data versioning
-- Scalable search: embeddings, hybrid retrieval, vector databases
 
 ---
 
