@@ -61,20 +61,9 @@ DevOps & Cloud
 ## 📈 Stats & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anaslimem&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anaslimem&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaslimem&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslimem&theme=react-dark" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=anaslimem&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
