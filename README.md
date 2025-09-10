@@ -42,19 +42,7 @@ I build **production-grade AI systems** from first principles to scalable deploy
 
 ## 🧰 Tech Toolbox
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" className="h-5" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" alt="PyTorch" className="h-5" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" alt="TensorFlow" className="h-5" />
-          <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat" alt="scikit-learn" className="h-5" />
-          <img src="https://img.shields.io/badge/LangChain-0C8CE9?style=flat" alt="LangChain" className="h-5" />
-          <img src="https://img.shields.io/badge/Ollama-000000?style=flat" alt="Ollama" className="h-5" />
-          <img src="https://img.shields.io/badge/FAISS-005F9E?style=flat" alt="FAISS" className="h-5" />
-          <img src="https://img.shields.io/badge/ChromaDB-FF0080?style=flat" alt="ChromaDB" className="h-5" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat" alt="FastAPI" className="h-5" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" className="h-5" />
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes" className="h-5" />
-          <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions" className="h-5" />
-          <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white&style=flat" alt="Azure Blob Storage" className="h-5" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" className="h-5" /><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" alt="PyTorch" className="h-5" /><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" alt="TensorFlow" className="h-5" /><img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat" alt="scikit-learn" className="h-5" /><img src="https://img.shields.io/badge/LangChain-0C8CE9?style=flat" alt="LangChain" className="h-5" /><img src="https://img.shields.io/badge/Ollama-000000?style=flat" alt="Ollama" className="h-5" /><img src="https://img.shields.io/badge/FAISS-005F9E?style=flat" alt="FAISS" className="h-5" /><img src="https://img.shields.io/badge/ChromaDB-FF0080?style=flat" alt="ChromaDB" className="h-5" /><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat" alt="FastAPI" className="h-5" /><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" className="h-5" /><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes" className="h-5" /><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions" className="h-5" /><img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white&style=flat" alt="Azure Blob Storage"/>
 
 
 ---
