@@ -19,8 +19,6 @@
 - **Core Skills**: Python, PyTorch, TensorFlow, LangChain, FastAPI, Streamlit, Docker, Kubernetes, CI/CD.  
 - **Top Projects**:  
   - [VectorMind AI](https://github.com/anaslimem/VectorMind-AI) – Document Q&A engine using RAG + ChromaDB + Ollama, deployed with Docker/K8s.  
-  - [AI-Assistant-RAG](https://github.com/anaslimem/AI-Assistant-RAG) – Real-time RAG search with caching for fast responses.  
-  - [CNN-from-scratch](https://github.com/anaslimem/CNN-from-scratch) – Deep learning models built manually using NumPy, achieving 98% accuracy on MNIST.  
   - [Optimizers-from-scratch](https://github.com/anaslimem/Optimizers-from-scratch) – Custom implementation of optimization algorithms for deep learning, explained and coded from first principles.  
 
 ---
