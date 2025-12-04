@@ -82,7 +82,7 @@ Implemented optimization algorithms (Momentum, RMSProp, Adam) from scratch. Buil
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaslimem&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslimem&theme=react-dark&hide_border=true&area=true&area_color=00ffcc" />
 </p>
 
 ---
