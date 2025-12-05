@@ -70,15 +70,7 @@ Implemented optimization algorithms (Momentum, RMSProp, Adam) from scratch. Buil
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaslimem&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaslimem&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaslimem&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
