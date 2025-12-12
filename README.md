@@ -143,36 +143,6 @@ Implemented optimization algorithms (Momentum, RMSProp, Adam) from scratch. Buil
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaslimem&theme=radical&hide_border=true" />
 </p>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-limem-2b01702b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anaslimem">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="http://medium.com/@limemanas0">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>I learn by building. Check the repositories to see what I've actually made.</i>
-</p>
-
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaslimem&theme=radical&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslimem&theme=react-dark&hide_border=true&area=true&area_color=00ffcc" />
 </p>
