@@ -143,9 +143,6 @@ Implemented optimization algorithms (Momentum, RMSProp, Adam) from scratch. Buil
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaslimem&theme=radical&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslimem&theme=react-dark&hide_border=true&area=true&area_color=00ffcc" />
-</p>
 
 ---
 
