@@ -33,9 +33,6 @@ I focus on the full lifecycle: from initial architecture to deployment, monitori
 **Agent Systems**  
 Built production agent systems using ADK with tool integration, state management, and orchestration. These aren't demos—they handle real tasks with error recovery and logging.
 
-**VectorMind AI**  
-A retrieval-augmented generation platform using ChromaDB and FastAPI. Deployed in containers with proper separation of concerns. Shows I understand both the ML and engineering sides.
-
 **Deep Learning Fundamentals**  
 Implemented optimization algorithms (Momentum, RMSProp, Adam) from scratch. Built classifiers for medical imaging and NLP tasks. I don't just use libraries. I understand what's happening under the hood.
 
