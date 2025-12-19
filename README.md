@@ -17,36 +17,6 @@
 
 I build AI systems that solve actual problems. My work centers on agent architectures, backend services, and production-ready machine learning applications.
 
-**Core experience:**
-- Designing multi-agent systems with ADK that handle complex workflows
-- Building REST APIs with FastAPI for production environments
-- Containerizing and orchestrating services with Docker and Kubernetes
-- Implementing vector search and retrieval systems for AI applications
-- Training and deploying deep learning models end-to-end
-
-I focus on the full lifecycle: from initial architecture to deployment, monitoring, and maintenance.
-
----
-
-## Featured Work
-
-**Agent Systems**  
-Built production agent systems using ADK with tool integration, state management, and orchestration. These aren't demos—they handle real tasks with error recovery and logging.
-
-**Deep Learning Fundamentals**  
-Implemented optimization algorithms (Momentum, RMSProp, Adam) from scratch. Built classifiers for medical imaging and NLP tasks. I don't just use libraries. I understand what's happening under the hood.
-
----
-
-## Currently
-
-- Expanding monitoring and observability practices for ML systems
-- Building more sophisticated agent coordination patterns
-- Contributing to open source tools I actually use
-- Studying distributed system design for AI workloads
-
----
-
 ## Technical Stack
 
 <p align="left">
